@@ -7,14 +7,20 @@ body {
   margin-left: 15em;
 }
 
-#navigation {
+nav {
 	display:block;
 	font-size: 2em;
 	color: lightgray;
 	text-decoration: none;
+  text-align:center;
 }
 
 a {
+  color: gray;
+  text-decoration:none;
+}
+
+nav a {
 	text-decoration: none;
 	color: lightgray;
 	padding: 8px;
@@ -25,4 +31,9 @@ a {
 
 main {
   margin-top:5em;
+  text-align:center;
+}
+
+img {
+  width: 50%;
 }
