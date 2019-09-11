@@ -25,6 +25,7 @@ nav a {
 	color: indigo;
 	padding: 8px;
 	padding-top: 14px;
+  padding-bottom: 7px;
 	border: 2px solid orange;
 	margin-bottom: 15em;
 }
