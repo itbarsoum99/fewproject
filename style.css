@@ -5,36 +5,46 @@ body {
 	margin-top: 5em;
   margin-right: 15em;
   margin-left: 15em;
-}
-
-nav {
-	display:block;
-	font-size: 2em;
-	color: lightgray;
-	text-decoration: none;
   text-align:center;
 }
+
+nav a {
+	font-size: 2em;	
+	text-decoration: none;
+  text-align: right;
+  color: indigo;
+  padding-top: 14px;
+  padding-bottom: 7px;
+  padding-left: 8px;
+  padding-right:8px;
+	border: 2px solid orange;
+}
+
 
 a {
   color: indigo;
   text-decoration:none;
 }
 
-nav a {
-	text-decoration: none;
-	color: indigo;
-	padding: 8px;
-	padding-top: 14px;
-  padding-bottom: 7px;
-	border: 2px solid orange;
-	margin-bottom: 15em;
+h1 {
+  text-align: center;
 }
-
-main {
-  margin-top:5em;
+h2 {
+  text-align:center;
+}
+p {
   text-align:center;
 }
 
-img {
+
+main {
+  margin-top:5em; 
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
   width: 50%;
+  padding: 1em;
 }
