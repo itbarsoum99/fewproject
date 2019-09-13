@@ -6,17 +6,15 @@ body {
   margin-right: 15em;
   margin-left: 15em;
   text-align:center;
+    
 }
 
 nav a {
 	font-size: 2em;	
 	text-decoration: none;
   text-align: right;
-  color: indigo;
-  padding-top: 14px;
-  padding-bottom: 7px;
-  padding-left: 8px;
-  padding-right:8px;
+  color: seagreen !important;
+  padding: 14px 8px 7px 8px;
 	border: 2px solid orange;
 }
 
@@ -41,7 +39,7 @@ main {
   margin-top:5em; 
 }
 
-img{
+img {
   display: block;
   margin-left: auto;
   margin-right: auto; 
