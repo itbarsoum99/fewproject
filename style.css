@@ -15,7 +15,8 @@ nav a {
   text-align: right;
   color: seagreen !important;
   padding: 14px 8px 7px 8px;
-	border: 2px solid orange;
+	border: 5px solid orange;
+	border-radius: 5px;
 }
 
 
