@@ -1,0 +1,89 @@
+body {
+	font-family: 'Baloo Tamma 2', cursive;
+	background-color:Orange;
+	color: black;
+	margin-top: 5em;
+  margin-right: 15em;
+  margin-left: 15em;
+  text-align:center;
+    
+}
+
+
+
+
+a {
+  text-decoration:none;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align:center;
+}
+p {
+  font-size: 2em;
+  text-align: left !important;
+}
+
+
+main {
+  margin-top:5em; 
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 50%;
+  padding: 1em;
+}
+nav {
+  background-color: #212728;
+  overflow: hidden;
+  border: 2px solid white;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 2em;
+  padding-bottom: 0.55em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  width: 100;
+  border: 5px solid white;
+  border-radius: 2px;
+  display: inline-block;
+  z-index: 10;
+  width: 100%
+}
+.nav-left {
+  float: left;
+}
+.nav-left a {
+  font-size: 2em !important;
+  color: #9b9cc5 !important;
+  padding-top: 2em;
+  padding-bottom: 0.9em !important;
+}
+.nav-right {
+  float: right;
+  margin-right: 3em;
+  color: #212728;
+}
+div {
+  display: block;
+}
+.nav-right a {
+  font-family: 'PT Serif', serif;
+	font-size: 17px;	
+	text-decoration: none;
+  text-align: center;
+  color: #f2f2f2 !important;
+	border: 3px solid orange;
+	border-radius: 10px;
+  padding: 14px 16px;
+}
