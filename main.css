@@ -73,14 +73,14 @@ nav {
 .nav-left a {
   font-family: 'Baloo Tamma 2', cursive;
   font-size: 2em !important;
-  color: #f5f946 !important;
+  color: #5a729a !important;
   padding-top: 2em;
   padding-bottom: 0.9em !important;
 }
 .nav-right {
   float: right;
   margin-right: 3em;
-  color: #004C70;
+  color: #5a729a;
   padding-top: 1em;
 }
 div {
