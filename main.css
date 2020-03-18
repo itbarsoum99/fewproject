@@ -47,13 +47,8 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  padding-top: 2em;
-  padding-bottom: 0.55em;
-  padding-left: 2em;
-  padding-right: 2em;
-  padding-left: 2em;
-  padding-right: 2em;
   width: 100;
+  padding: 1.5em;
   border: 5px solid white;
   border-radius: 2px;
   display: inline-block;
@@ -73,6 +68,7 @@ nav {
   float: right;
   margin-right: 3em;
   color: #212728;
+  padding-top: 1em;
 }
 div {
   display: block;
