@@ -4,6 +4,7 @@ body {
 	margin-top: 9em;
   margin-right: 15em;
   margin-left: 15em;
+  overflow: scroll;
 }
 #homebody {
   text-align: center !important;
@@ -84,7 +85,7 @@ nav {
 .nav-right {
   float: right;
   margin-right: 3em;
-  color: #004C70;
+  color: #fff4e6;
   padding-top: 1em;
 }
 div {
