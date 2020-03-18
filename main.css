@@ -11,6 +11,15 @@ body {
   margin-top: 15em !important;
 }
 
+#lesbian, #gay, #bisexual, #transgender, #other, #general p {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#general h2 {
+  font-size: 1.77em;
+}
+
 #branding {
   margin-top: 3em !important;
   margin-bottom: 0.5em !important;
@@ -32,8 +41,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  font-size: 2em;
   text-align: left !important;
+  font-family: 'PT Serif', serif;
 }
 
 
