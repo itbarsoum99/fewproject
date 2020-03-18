@@ -1,28 +1,39 @@
 body {
-	font-family: 'Baloo Tamma 2', cursive;
 	background-color:#3AD854;
 	color: black;
 	margin-top: 5em;
   margin-right: 15em;
   margin-left: 15em;
   text-align:center;
-    
+  margin-top: 3em;  
+}
+#homebody {
+  text-align: center !important;
 }
 
+#branding {
+  margin-top: 3em !important;
+  margin-bottom: 0.5em !important;
+  font-size: 2em;
+}
 
-
+hr {
+  border-color: black;
+  background-color: black;
+}
 
 a {
   text-decoration:none;
   color: #F4D00C;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
+  color: black !important;
   text-align: center;
+font-family: 'Baloo Tamma 2', cursive;
+
 }
-h2 {
-  text-align:center;
-}
+
 p {
   font-size: 2em;
   text-align: left !important;
@@ -60,6 +71,7 @@ nav {
   float: left;
 }
 .nav-left a {
+  font-family: 'Baloo Tamma 2', cursive;
   font-size: 2em !important;
   color: #f5f946 !important;
   padding-top: 2em;
