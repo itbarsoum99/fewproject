@@ -1,5 +1,5 @@
 body {
-	background-color:#3AD854;
+	background-color:#fff4e6;
 	color: black;
 	margin-top: 5em;
   margin-right: 15em;
@@ -50,14 +50,14 @@ img {
   padding: 1em;
 }
 nav {
-  background-color: #004C70;
+  background-color: #4b3832;
   overflow: hidden;
   text-align: center;
   position: fixed;
   top: 0;
   left: 0;
   padding: 1.5em;
-  border: 5px solid white;
+  border: 5px solid #854442;
   border-radius: 2px;
   display: inline-block;
   z-index: 10;
@@ -69,7 +69,7 @@ nav {
 .nav-left a {
   font-family: 'Baloo Tamma 2', cursive;
   font-size: 2em !important;
-  color: #f5f946 !important;
+  color: #be9b7b !important;
   padding-top: 2em;
   padding-bottom: 0.9em !important;
 }
@@ -87,8 +87,8 @@ div {
 	font-size: 17px;	
 	text-decoration: none;
   text-align: center;
-  color: #f2f2f2 !important;
-	border: 3px solid orange;
+  color: #be9b7b !important;
+	border: 3px solid #854442;
 	border-radius: 10px;
   padding: 14px 16px;
 }
