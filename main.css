@@ -4,7 +4,6 @@ body {
 	margin-top: 5em;
   margin-right: 15em;
   margin-left: 15em;
-  text-align:center;
 }
 #homebody {
   text-align: center !important;
@@ -28,7 +27,6 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  text-align: center;
   font-family: 'Baloo Tamma 2', cursive;
 }
 
