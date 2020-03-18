@@ -8,6 +8,7 @@ body {
 }
 #homebody {
   text-align: center !important;
+  color: #3c2f2f !important;
 }
 
 #branding {
@@ -27,7 +28,6 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: black !important;
   text-align: center;
   font-family: 'Baloo Tamma 2', cursive;
 }
