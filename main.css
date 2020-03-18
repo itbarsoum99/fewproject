@@ -1,13 +1,14 @@
 body {
 	background-color:#fff4e6;
 	color: black;
-	margin-top: 5em;
+	margin-top: 9em;
   margin-right: 15em;
   margin-left: 15em;
 }
 #homebody {
   text-align: center !important;
   color: #3c2f2f !important;
+  margin-top: 15em !important;
 }
 
 #branding {
