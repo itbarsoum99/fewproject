@@ -16,6 +16,8 @@ body {
 #fewprojectlogo {
   width: 150px !important;
   padding: 0em !important;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 #lesbian, #gay, #bisexual, #transgender, #other, #general p {
