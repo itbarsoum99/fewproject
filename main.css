@@ -9,7 +9,13 @@ body {
 #homebody {
   text-align: center !important;
   color: #3c2f2f !important;
-  margin-top: 15em !important;
+  margin-top: 8em !important;
+  overflow: hidden !important;
+}
+
+#fewprojectlogo {
+  width: 150px !important;
+  padding: 0em !important;
 }
 
 #lesbian, #gay, #bisexual, #transgender, #other, #general p {
@@ -21,9 +27,9 @@ body {
 }
 
 #branding {
-  margin-top: 3em !important;
   margin-bottom: 0.5em !important;
   font-size: 2em;
+  margin-top: 0em;
 }
 
 hr {
@@ -51,7 +57,6 @@ main {
 }
 
 img {
-  display: block;
   margin-left: auto;
   margin-right: auto; 
   width: 50%;
