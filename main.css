@@ -97,6 +97,9 @@ div {
   text-align: center;
   color: #be9b7b !important;
 	border: 3px solid #854442;
-	border-radius: 10px;
   padding: 14px 16px;
+}
+
+#about-body {
+  font-size: 20px;
 }
