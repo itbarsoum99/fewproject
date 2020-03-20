@@ -13,7 +13,7 @@ body {
 }
 
 #fewprojectlogo {
-  width: 200px !important;
+  width: 250px !important;
   padding: 0em !important;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
@@ -75,7 +75,7 @@ nav {
   float: left;
 }
 .nav-left a {
-  font-family: 'Baloo Tamma 2', cursive;
+  font-family: 'PT Serif', serif;
   font-size: 2em !important;
   color: #be9b7b !important;
   padding-top: 2em;
