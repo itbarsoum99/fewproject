@@ -64,7 +64,9 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  padding: 1.5em;
+  padding-top: 1.5em;
+  padding-bottom: 2em;
+  padding-left:1.5em
   border: 5px solid #854442;
   border-radius: 1px;
   display: inline-block;
