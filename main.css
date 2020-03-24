@@ -110,5 +110,7 @@ h2 {
 }
 #video {
   display: block !important;
-  margin: 0 auto !important;
+  margin-left: 13%;
+  margin-right: 25%;
+  width: 50%;
 }
