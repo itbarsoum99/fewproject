@@ -102,9 +102,13 @@ div {
   padding: 14px 16px;
 }
 
-#about-body {
+.about-body {
   font-size: 20px;
 }
 h2 {
   margin-bottom:0px !important
 }
+pre {
+  font-family: 'PT Serif', serif;
+}
+
